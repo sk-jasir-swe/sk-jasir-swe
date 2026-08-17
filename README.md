@@ -29,25 +29,6 @@ I'm a Full Stack Web Developer passionate about building modern, responsive, and
 
 ---
 
-### 📌 Featured Projects
-
-#### 🖼️ Image QR Generator
-A web application that generates high-quality QR codes from images.
-
-**Tech:** HTML • CSS • JavaScript
-
-#### 💬 Chat Application
-A real-time chat application with authentication and messaging features.
-
-**Tech:** React.js • Firebase
-
-#### 💱 Currency Converter
-A responsive currency conversion application using real-time exchange rates.
-
-**Tech:** React.js • API
-
----
-
 ### 🌐 Portfolio
 
 🔗 [Visit My Portfolio](https://skjasir.vercel.app/)
