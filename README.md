@@ -53,7 +53,7 @@ Git • GitHub • VS Code • Postman
 
 🤝 Connect With Me
 
-💼 LinkedIn: Connect with me on LinkedIn
+💼 LinkedIn: https://www.linkedin.com/in/sk-jasir-swe/?isSelfProfile=true
 
 💻 GitHub: Explore my GitHub Repositories
 
