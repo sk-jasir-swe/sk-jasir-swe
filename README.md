@@ -55,7 +55,7 @@ Git • GitHub • VS Code • Postman
 
 💼 LinkedIn: https://www.linkedin.com/in/sk-jasir-swe/?isSelfProfile=true
 
-💻 GitHub: Explore my GitHub Repositories
+💻 GitHub: https://github.com/sk-jasir-swe?tab=repositories
 
 📧 Email: skjasir21@gmail.com
 
