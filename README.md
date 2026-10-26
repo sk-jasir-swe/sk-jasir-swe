@@ -23,7 +23,7 @@ I’m an Entry-Level Full Stack Developer passionate about building secure, scal
 🛠️ Tech Stack
 
 Frontend
-HTML5 • CSS3 • JavaScript • TypeScript • React.js • Next.js • Tailwind CSS
+JavaScript • TypeScript • React.js • Next.js • Tailwind CSS
 
 Backend
 Node.js • Express.js • RESTful APIs • JWT Authentication
@@ -53,9 +53,9 @@ Git • GitHub • VS Code • Postman
 
 🤝 Connect With Me
 
-💼 LinkedIn: sk-jasir-swe
+💼 LinkedIn: Connect with me on LinkedIn
 
-💻 GitHub: sk-jasir-swe
+💻 GitHub: Explore my GitHub Repositories
 
 📧 Email: skjasir21@gmail.com
 
