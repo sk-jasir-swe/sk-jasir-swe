@@ -23,7 +23,7 @@ I’m a Full Stack Web Developer passionate about building modern, responsive, a
 🛠️ Tech Stack
 
 Category	Technologies
-🎨 Frontend	HTML5 • CSS3 • JavaScript • TypeScript • React.js • Next.js • Tailwind CSS
+🎨 Frontend	 JavaScript • TypeScript • React.js • Next.js • Tailwind CSS
 ⚙️ Backend	Node.js • Express.js
 🗄️ Database	MongoDB • Firebase
 🔧 Tools	Git • GitHub • VS Code
