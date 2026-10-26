@@ -1,32 +1,47 @@
 Hi 👋, I’m Sk Jasir
 
-Full Stack Web Developer | MERN Stack | Next.js | TypeScript
+💻 Full Stack Developer | MERN Stack | Next.js | TypeScript
 
-I’m a Full Stack Web Developer passionate about building modern, responsive, and user-friendly web applications using JavaScript, TypeScript, React.js, Next.js, and the MERN stack.
+I’m an Entry-Level Full Stack Developer passionate about building secure, scalable, and responsive web applications. I enjoy turning ideas into real-world products using modern web technologies.
 
 ⸻
 
 🚀 About Me
 
-* 💻 Full Stack Web Developer
-* ⚛️ Building modern web applications with React.js and Next.js
-* 🔷 Working with TypeScript and JavaScript
-* 🟢 Developing backend applications with Node.js and Express.js
-* 🍃 Working with MongoDB
-* 🔥 Experience with Firebase
-* 🎨 Creating responsive UIs with Tailwind CSS
-* 🌐 Focused on building real-world projects
-* 📚 Continuously improving my development skills
+* 💻 Full Stack Developer specializing in the MERN stack
+* ⚛️ Building modern interfaces with React.js and Next.js
+* 🔷 Working with JavaScript and TypeScript
+* 🟢 Developing RESTful APIs using Node.js and Express.js
+* 🍃 Working with MongoDB and Firebase
+* 🔐 Implementing JWT authentication, refresh tokens, and secure password hashing
+* ☁️ Working with Docker, AWS EC2, Vercel, and Netlify
+* 🖼️ Integrating ImageKit and Cloudinary for media storage
+* 🎯 Focused on building practical, real-world applications
 
 ⸻
 
 🛠️ Tech Stack
 
-Category	Technologies
-🎨 Frontend	 JavaScript • TypeScript • React.js • Next.js • Tailwind CSS
-⚙️ Backend	Node.js • Express.js
-🗄️ Database	MongoDB • Firebase
-🔧 Tools	Git • GitHub • VS Code
+Frontend
+HTML5 • CSS3 • JavaScript • TypeScript • React.js • Next.js • Tailwind CSS
+
+Backend
+Node.js • Express.js • RESTful APIs • JWT Authentication
+
+Database
+MongoDB • Mongoose • Firebase • Firestore
+
+Authentication & Security
+JWT • Access & Refresh Tokens • HttpOnly Cookies • OTP Verification • bcrypt
+
+Cloud & Media Storage
+ImageKit • Cloudinary
+
+DevOps & Deployment
+Docker • AWS EC2 • Vercel • Netlify
+
+Tools
+Git • GitHub • VS Code • Postman
 
 ⸻
 
@@ -36,20 +51,23 @@ Category	Technologies
 
 ⸻
 
-📫 Connect With Me
+🤝 Connect With Me
 
-💼 LinkedIn
+💼 LinkedIn: sk-jasir-swe
+
+💻 GitHub: sk-jasir-swe
 
 📧 Email: skjasir21@gmail.com
 
 ⸻
 
-⚡ Currently
+⚡ Current Focus
 
-🚀 Building full-stack web applications
-💡 Exploring modern web development technologies
-🎯 Looking for opportunities as a Full Stack Web Developer
+* 🚀 Building full-stack web applications
+* 🔐 Improving backend security and API design
+* ☁️ Exploring deployment and cloud technologies
+* 📚 Continuously improving my development skills
 
 ⸻
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile! Feel free to explore my repositories.
